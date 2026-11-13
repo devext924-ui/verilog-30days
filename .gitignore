@@ -1,0 +1,18 @@
+# Simulation outputs
+*.out
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+
+# Synthesis outputs
+*.json
+*.blif
+*.edif
+synth_*.v
+
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store
